@@ -3,8 +3,6 @@
 //  resolution-cli
 //
 //  Created by Anthony Dervish on 01/02/2014.
-//  Based on 'ResolutionMenu' by Robbert Klarenbeek.
-//  Copyright (c) 2014 Robbert Klarenbeek. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
