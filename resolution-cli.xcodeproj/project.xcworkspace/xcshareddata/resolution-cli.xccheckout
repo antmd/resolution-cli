@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>086F5552-D5E4-4194-82B4-7BEFF2E50C9B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>resolution-cli</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>602AD140-EB08-47E9-8F7F-4E1CFC56A2A8</key>
+		<string>ssh://github.com/antmd/resolution-cli.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>resolution-cli/resolution-cli.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>602AD140-EB08-47E9-8F7F-4E1CFC56A2A8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/antmd/resolution-cli.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>602AD140-EB08-47E9-8F7F-4E1CFC56A2A8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>602AD140-EB08-47E9-8F7F-4E1CFC56A2A8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>resolution-cli</string>
+		</dict>
+	</array>
+</dict>
+</plist>
