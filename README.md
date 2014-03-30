@@ -28,3 +28,6 @@ A command line tool for switching display modes on OS X
             _x_@16    = first mode with 16-bit colour
             h         = first HiDPI mode
             _         = Highest resolution mode -- often the default
+
+
+The details of the private CGS* display functions to detect and change resolutions were originally worked out by Robbert Klarenbeek, and used in his excellent [ResolutionMenu](https://github.com/robbertkl/ResolutionMenu).
